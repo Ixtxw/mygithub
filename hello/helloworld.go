@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
-	fmt.Println("hello world")
+func main2() {
+	fmt.Println("hello world!!")
+	fmt.Println("hello world!!")
 }
